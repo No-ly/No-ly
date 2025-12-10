@@ -1,6 +1,6 @@
 # Hola, mi nombre es Santiago Martínez 👋
 
-Soy estudiante de ingeniería en software y sistemas computacionales
+Estudiante de ingeniería en software y sistemas computacionales
 
 ### 🛠 Tech Stack
 
